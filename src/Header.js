@@ -8,7 +8,7 @@ function Header() {
 
       <a href="index.html" class="logo d-flex align-items-center">
         <img src="assets/img/logo.png" alt=""/>
-        <span>Hala Madrid</span>
+        <span>The Best</span>
       </a>
 
       <nav id="navbar" class="navbar">
